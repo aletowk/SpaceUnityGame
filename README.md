@@ -8,6 +8,7 @@
   * Afficher les informations sur le corps (Masse, Type, Faction,...)
   * Pour les corps différents d'une étoile:
     * Proposer un attérissage
+     * L'attérissage donnera naissance à l'instanciation d'une scene spécifique pour chaque plnaete, RPG like environment
     * Proposer un menu de construction
     * Proposer un menu d'interraction avec les structures disponibles
     * TODO
