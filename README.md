@@ -11,4 +11,5 @@
     * Proposer un menu de construction
     * Proposer un menu d'interraction avec les structures disponibles
     * TODO
-*TODO* 
+
+TODOTODO
