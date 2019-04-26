@@ -11,7 +11,7 @@
      * L'attérissage donnera naissance à l'instanciation d'une scene spécifique pour chaque plnaete, RPG like environment
     * Proposer un menu de construction
     * Proposer un menu d'interraction avec les structures disponibles
-    * TODO
+    * Menu de récolte
     
 * Système de ressources:
   * Implémenter des ressources collectable uniquement sur certaines planetes
